@@ -4,7 +4,6 @@ import game_data
 
 # show the logo
 print(logo)
-
 celebrities = []
 score = 0
 game_continue = True
